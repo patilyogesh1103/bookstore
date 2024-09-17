@@ -1,0 +1,43 @@
+[
+    {
+      "id": 7,
+      "name": "Children's Tale",
+      "title": "Magical Adventures for Kids",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books…"
+    },
+    {
+      "id": 8,
+      "name": "Educational Guide",
+      "title": "Learning Made Fun",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books…"
+    },
+    {
+      "id": 9,
+      "name": "Mystery Novel",
+      "title": "Solve the Puzzle",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books…"
+    },
+    {
+      "id": 10,
+      "name": "Science Fiction",
+      "title": "Explore the Future",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books…"
+    },
+    {
+      "id": 11,
+      "name": "Romance Story",
+      "title": "Love and Passion",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books…"
+    }
+  ]
+  
